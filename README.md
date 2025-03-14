@@ -1,2 +1,4 @@
-# Master's Thesis Planning
-This repository is meant to host a project laying out our master's thesis.
+# The Gamepad Language
+In pursuit of conveying meaning through controller inputs.
+
+This is a repository containing content relevant to our Master's thesis at the University of Gothenburg.
