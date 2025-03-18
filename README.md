@@ -1,6 +1,6 @@
 # The Gamepad Language
 
-In pursuit of conveying meaning through controller inputs.
+This is the repository for our master's thesis titled "The Gamepad Language: In pursuit of conveying meaning through gamepad controller inputs" at the University of Gothenburg.
 
 ## Game
 
